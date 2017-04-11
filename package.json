@@ -1,0 +1,31 @@
+{
+  "name": "sort-js",
+  "version": "1.0.0",
+  "description": "sort array by a predicate",
+  "main": "Sort.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gal Rettig",
+  "license": "MIT",
+  "dependencies": {
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/galrettig/sort-js.git"
+  },
+  "keywords": [
+    "sort",
+    "bubble",
+    "sort",
+    "merge",
+    "sort",
+    "insertion"
+  ],
+  "bugs": {
+    "url": "https://github.com/galrettig/sort-js/issues"
+  },
+  "homepage": "https://github.com/galrettig/sort-js#readme"
+}
